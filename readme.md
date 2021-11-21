@@ -1,1 +1,0 @@
-This is my test of knowledge in HTML!
